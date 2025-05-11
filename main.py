@@ -42,7 +42,7 @@ def text_to_speech(text, output_file):
     tts.save(output_file)
 
 # Example usage
-audio_file = 'C:\\Users\\umad3\\WhatsApp Audio.wav'
+audio_file = 'audio file path'
 chunks = split_audio(audio_file)
 
 transcribed_texts = []
