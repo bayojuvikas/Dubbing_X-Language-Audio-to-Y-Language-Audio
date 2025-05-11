@@ -1,4 +1,4 @@
-#  📝(Scripts)Text, 🌐Translate & Convert to 🔊Speech
+#  📝(Scripts)Text to 🌐Translate & Convert to 🔊Speech
 
 This project is a complete pipeline that:
 
