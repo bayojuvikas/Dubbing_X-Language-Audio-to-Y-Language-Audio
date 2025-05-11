@@ -26,8 +26,8 @@ The pipeline uses **PyDub** for audio processing, **Google Speech Recognition AP
 1. Clone the repository:
 
    ```bash
-   git clone https://bayojuvikas/Dubbing_X-Language-Script-to-Y-Language-Audio.git
-   cd Dubbing_X-Language-Script-to-Y-Language-Audio
+   git clone https://bayojuvikas/Dubbing_X-Language-Audio-to-Y-Language.git
+   cd Dubbing_X-Language-Audio-to-Y-Language
    ```
 
 2. Install the required dependencies:
