@@ -1,4 +1,4 @@
-#  🎤 Audio to 📝Text, 🌐Translate & Convert to 🔊Speech
+#  📝(Scripts)Text, 🌐Translate & Convert to 🔊Speech
 
 This project is a complete pipeline that:
 
